@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "60b57a50a44d2d0b2d4af18a",
+    "eventTime": "2021-06-01T00:07:41.033Z",
+    "tankLevel": "522600",
+    "tankLevelPercentage": "20.82"
+  },
+  {
+    "_id": "60b5966ea44d2d0b2d4af237",
+    "eventTime": "2021-06-01T00:22:42.502Z",
+    "tankLevel": "522600",
+    "tankLevelPercentage": "20.82"
+  },
+  {
+    "_id": "60b5966fa44d2d0b2d4af239",
+    "eventTime": "2021-06-01T00:37:42.502Z",
+    "tankLevel": "502500",
+    "tankLevelPercentage": "20.02"
+  },
+  {
+    "_id": "60b5966fa44d2d0b2d4af23b",
+    "eventTime": "2021-06-01T00:52:42.502Z",
+    "tankLevel": "502500",
+    "tankLevelPercentage": "20.02"
+  },
+  {
+    "_id": "60b59670a44d2d0b2d4af23d",
+    "eventTime": "2021-06-01T01:07:42.502Z",
+    "tankLevel": "502500",
+    "tankLevelPercentage": "20.02"
+  },
+  {
+    "_id": "60b59670a44d2d0b2d4af23f",
+    "eventTime": "2021-06-01T01:22:42.502Z",
+    "tankLevel": "482400",
+    "tankLevelPercentage": "19.22"
+  },
+  {
+    "_id": "60b59671a44d2d0b2d4af241",
+    "eventTime": "2021-06-01T01:37:42.502Z",
+    "tankLevel": "502500",
+    "tankLevelPercentage": "20.02"
+  },
+  {
+    "_id": "60b59671a44d2d0b2d4af243",
+    "eventTime": "2021-06-01T01:52:42.502Z",
+    "tankLevel": "482400",
+    "tankLevelPercentage": "19.22"
+  },
+  {
+    "_id": "60b59672a44d2d0b2d4af245",
+    "eventTime": "2021-06-01T02:07:42.502Z",
+    "tankLevel": "502500",
+    "tankLevelPercentage": "20.02"
+  },
+  {
+    "_id": "60b5b28ea44d2d0b2d4af316",
+    "eventTime": "2021-06-01T02:22:41.958Z",
+    "tankLevel": "462300",
+    "tankLevelPercentage": "18.42"
+  },
+  {
+    "_id": "60b5b28ea44d2d0b2d4af318",
+    "eventTime": "2021-06-01T02:37:41.958Z",
+    "tankLevel": "482400",
+    "tankLevelPercentage": "19.22"
+  },
+  {
+    "_id": "60b5b28fa44d2d0b2d4af31a",
+    "eventTime": "2021-06-01T02:52:41.958Z",
+    "tankLevel": "462300",
+    "tankLevelPercentage": "18.42"
+  },
+  {
+    "_id": "60b5b28fa44d2d0b2d4af31c",
+    "eventTime": "2021-06-01T03:07:41.958Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5b290a44d2d0b2d4af31e",
+    "eventTime": "2021-06-01T03:22:41.958Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5b290a44d2d0b2d4af320",
+    "eventTime": "2021-06-01T03:37:41.958Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5b291a44d2d0b2d4af322",
+    "eventTime": "2021-06-01T03:52:41.958Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5b291a44d2d0b2d4af324",
+    "eventTime": "2021-06-01T04:07:41.958Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5ceafa44d2d0b2d4af406",
+    "eventTime": "2021-06-01T04:22:43.108Z",
+    "tankLevel": "442200",
+    "tankLevelPercentage": "17.62"
+  },
+  {
+    "_id": "60b5ceb0a44d2d0b2d4af408",
+    "eventTime": "2021-06-01T04:37:43.108Z",
+    "tankLevel": "422100",
+    "tankLevelPercentage": "16.82"
+  },
+  {
+    "_id": "60b5ceb0a44d2d0b2d4af40a",
+    "eventTime": "2021-06-01T04:52:43.108Z",
+    "tankLevel": "422100",
+    "tankLevelPercentage": "16.82"
+  },
+  {
+    "_id": "60b5ceb1a44d2d0b2d4af40c",
+    "eventTime": "2021-06-01T05:07:43.108Z",
+    "tankLevel": "422100",
+    "tankLevelPercentage": "16.82"
+  },
+  {
+    "_id": "60b5ceb1a44d2d0b2d4af40e",
+    "eventTime": "2021-06-01T05:22:43.108Z",
+    "tankLevel": "422100",
+    "tankLevelPercentage": "16.82"
+  },
+  {
+    "_id": "60b5ceb2a44d2d0b2d4af410",
+    "eventTime": "2021-06-01T05:37:43.108Z",
+    "tankLevel": "402000",
+    "tankLevelPercentage": "16.02"
+  },
+  {
+    "_id": "60b5ceb2a44d2d0b2d4af412",
+    "eventTime": "2021-06-01T05:52:43.108Z",
+    "tankLevel": "402000",
+    "tankLevelPercentage": "16.02"
+  },
+  {
+    "_id": "60b5ceb3a44d2d0b2d4af414",
+    "eventTime": "2021-06-01T06:07:43.108Z",
+    "tankLevel": "402000",
+    "tankLevelPercentage": "16.02"
+  },
+  {
+    "_id": "60b5eacea44d2d0b2d4af4cf",
+    "eventTime": "2021-06-01T06:22:42.080Z",
+    "tankLevel": "381900",
+    "tankLevelPercentage": "15.22"
+  },
+  {
+    "_id": "60b5eacfa44d2d0b2d4af4d1",
+    "eventTime": "2021-06-01T06:37:42.080Z",
+    "tankLevel": "381900",
+    "tankLevelPercentage": "15.22"
+  },
+  {
+    "_id": "60b5eacfa44d2d0b2d4af4d3",
+    "eventTime": "2021-06-01T06:52:42.080Z",
+    "tankLevel": "402000",
+    "tankLevelPercentage": "16.02"
+  },
+  {
+    "_id": "60b5ead0a44d2d0b2d4af4d5",
+    "eventTime": "2021-06-01T07:07:42.080Z",
+    "tankLevel": "381900",
+    "tankLevelPercentage": "15.22"
+  },
+  {
+    "_id": "60b5fd53a44d2d0b2d4af4f1",
+    "eventTime": "2021-06-01T07:11:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5ead0a44d2d0b2d4af4d7",
+    "eventTime": "2021-06-01T07:22:42.080Z",
+    "tankLevel": "381900",
+    "tankLevelPercentage": "15.22"
+  },
+  {
+    "_id": "60b5fd54a44d2d0b2d4af4f3",
+    "eventTime": "2021-06-01T07:26:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5ead1a44d2d0b2d4af4d9",
+    "eventTime": "2021-06-01T07:37:42.080Z",
+    "tankLevel": "361800",
+    "tankLevelPercentage": "14.41"
+  },
+  {
+    "_id": "60b5fd54a44d2d0b2d4af4f5",
+    "eventTime": "2021-06-01T07:41:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5ead1a44d2d0b2d4af4db",
+    "eventTime": "2021-06-01T07:52:42.080Z",
+    "tankLevel": "381900",
+    "tankLevelPercentage": "15.22"
+  },
+  {
+    "_id": "60b5fd55a44d2d0b2d4af4f7",
+    "eventTime": "2021-06-01T07:56:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5ead2a44d2d0b2d4af4dd",
+    "eventTime": "2021-06-01T08:07:42.080Z",
+    "tankLevel": "361800",
+    "tankLevelPercentage": "14.41"
+  },
+  {
+    "_id": "60b5fd55a44d2d0b2d4af4f9",
+    "eventTime": "2021-06-01T08:11:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b606eea44d2d0b2d4af616",
+    "eventTime": "2021-06-01T08:22:42.430Z",
+    "tankLevel": "361800",
+    "tankLevelPercentage": "14.41"
+  },
+  {
+    "_id": "60b5fd56a44d2d0b2d4af4fb",
+    "eventTime": "2021-06-01T08:26:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b606efa44d2d0b2d4af618",
+    "eventTime": "2021-06-01T08:37:42.430Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5fd56a44d2d0b2d4af4fd",
+    "eventTime": "2021-06-01T08:41:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b606f0a44d2d0b2d4af626",
+    "eventTime": "2021-06-01T08:52:42.430Z",
+    "tankLevel": "361800",
+    "tankLevelPercentage": "14.41"
+  },
+  {
+    "_id": "60b5fd57a44d2d0b2d4af4ff",
+    "eventTime": "2021-06-01T08:56:42.981Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b606f0a44d2d0b2d4af628",
+    "eventTime": "2021-06-01T09:07:42.430Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5fd57a44d2d0b2d4af501",
+    "eventTime": "2021-06-01T09:11:42.981Z",
+    "tankLevel": "361800",
+    "tankLevelPercentage": "14.41"
+  },
+  {
+    "_id": "60b606f1a44d2d0b2d4af62c",
+    "eventTime": "2021-06-01T09:22:42.430Z",
+    "tankLevel": "341700",
+    "tankLevelPercentage": "13.61"
+  },
+  {
+    "_id": "60b5fd58a44d2d0b2d4af503",
+    "eventTime": "2021-06-01T09:26:42.981Z",
+    "tankLevel": "603000",
+    "tankLevelPercentage": "24.02"
+  },
+  {
+    "_id": "60b606f1a44d2d0b2d4af62e",
+    "eventTime": "2021-06-01T09:37:42.430Z",
+    "tankLevel": "2050200",
+    "tankLevelPercentage": "81.68"
+  },
+  {
+    "_id": "60b606f2a44d2d0b2d4af63e",
+    "eventTime": "2021-06-01T09:52:42.430Z",
+    "tankLevel": "2030100",
+    "tankLevelPercentage": "80.88"
+  }
+]
