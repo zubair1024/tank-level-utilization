@@ -116,7 +116,7 @@ class Analyzer {
           this.tankData[lastLowestIdx].tankLevelPercentage);
       return this.getTotalFilledAmount(newValue, nextHighestIdx + 1);
     }
-    return preValue;
+    return Number(preValue.toFixed(2));
   }
   /**
    * Provided the total filled value, we can get the total emptied value
@@ -127,7 +127,9 @@ class Analyzer {
   getTotalEmptiedAmount(totalFilledPercentage: number): number {
     const first = this.tankData[0].tankLevelPercentage;
     const last = this.tankData[this.tankData.length - 1].tankLevelPercentage;
-    return first - last + totalFilledPercentage;
+    const value = Number((first - last + totalFilledPercentage).toFixed(2));
+    if (value < 0) return 0;
+    return value;
   }
   /**
    * for the given tank data get the total filled and emptied value
